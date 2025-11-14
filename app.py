@@ -160,7 +160,7 @@ elif page == "Camera Sensor":
             summary,
             names='Category',
             values='Count',
-            title="Crop Health Status Distribution",
+            title="Crop Health Status",
             color='Category',
             color_discrete_map={
                 'healthy crops': '#00CC96',
